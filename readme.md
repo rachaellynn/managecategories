@@ -1,0 +1,1 @@
+This is the <a href="https://www.mediawiki.org/wiki/Extension:ManageCategories">managecategories extension</a> for MediaWiki, created by Florian Gruber, updated with a fix for removing multiple categories. 
